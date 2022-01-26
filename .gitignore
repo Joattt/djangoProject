@@ -1,0 +1,3 @@
+../venv/
+geekshop/db.sqlite3
+!/geekshop/.env
